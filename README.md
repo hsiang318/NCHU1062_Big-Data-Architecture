@@ -1,0 +1,13 @@
+# NCHU1062_Big-Data-Architecture
+NCHU1062_Big Data Architecture_final-project
+第三組
+組員:張格恩 向智宇 洪裕博 陳俞安
+
+分三個不同的model
+1.CNN
+2.CNNLSTM
+3.RCNN
+
+分別使用兩個data set
+1.CR
+2.MR
